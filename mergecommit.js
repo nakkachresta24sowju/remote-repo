@@ -1,2 +1,1 @@
-"jfj lklkkf lklfkg lkflkf lkfkml,m flkfdk
-fmnf,,mg,mg lkfmggmf glgg g gmg"
+console.log("jfj lklkkf lklfkg lkflkf lkfkml,m flkfdk fmnf, , mg, mg lkfmggmf glgg g gmg ");
